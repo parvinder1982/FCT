@@ -93,3 +93,7 @@ npm install
 - run below command to launch angular application 
 
 ng s -o
+
+Note: - If product is already in Customer list and if he/she will try to buy again than he/she will not purchase see the console log for that, we can improve the solution based on need.
+
+I have only cover only - authenticate using jwt, view products, sort them by Id/Name/Price, purchase product and cancel purchase.
