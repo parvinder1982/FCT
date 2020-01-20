@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LightInject" Version="6.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fct.Domain.Contracts\Fct.Domain.Contracts.csproj" />
+    <ProjectReference Include="..\Fct.Infrastructure.Contracts\Fct.Infrastructure.Contracts.csproj" />
+    <ProjectReference Include="..\Fct.Infrastructure.Persistence\Fct.Infrastructure.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

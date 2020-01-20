@@ -1,0 +1,9 @@
+﻿<div class="card mt-4">
+    <h4 class="card-header">You're logged as <strong><i>{{userName}}</i></strong> with JWT!!</h4>
+    <div class="card-body">
+        <h6>Customer Purchased Items List</h6>
+        <div *ngIf="loading" class="spinner-border spinner-border-sm"></div>
+        <app-customer-product-list *ngIf="products"></app-customer-product-list>
+    </div>
+</div>
+

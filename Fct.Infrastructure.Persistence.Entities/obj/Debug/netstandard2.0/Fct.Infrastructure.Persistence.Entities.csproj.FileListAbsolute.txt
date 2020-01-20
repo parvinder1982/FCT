@@ -1,0 +1,8 @@
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence.Entities\bin\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.deps.json
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence.Entities\bin\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence.Entities\bin\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.pdb
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence.Entities\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.csprojAssemblyReference.cache
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence.Entities\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.AssemblyInfoInputs.cache
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence.Entities\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.AssemblyInfo.cs
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence.Entities\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence.Entities\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.pdb

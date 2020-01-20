@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fct.Domain.Contracts\Fct.Domain.Contracts.csproj" />
+    <ProjectReference Include="..\Fct.Infrastructure.Contracts\Fct.Infrastructure.Contracts.csproj" />
+    <ProjectReference Include="..\Fct.Infrastructure.Persistence.Entities\Fct.Infrastructure.Persistence.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

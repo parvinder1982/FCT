@@ -1,0 +1,11 @@
+C:\Learning\Project\FCT\Fct.Domain.Contracts\bin\Debug\netstandard2.0\Fct.Domain.Contracts.deps.json
+C:\Learning\Project\FCT\Fct.Domain.Contracts\bin\Debug\netstandard2.0\Fct.Domain.Contracts.dll
+C:\Learning\Project\FCT\Fct.Domain.Contracts\bin\Debug\netstandard2.0\Fct.Domain.Contracts.pdb
+C:\Learning\Project\FCT\Fct.Domain.Contracts\bin\Debug\netstandard2.0\Fct.Domain.Models.dll
+C:\Learning\Project\FCT\Fct.Domain.Contracts\bin\Debug\netstandard2.0\Fct.Domain.Models.pdb
+C:\Learning\Project\FCT\Fct.Domain.Contracts\obj\Debug\netstandard2.0\Fct.Domain.Contracts.csprojAssemblyReference.cache
+C:\Learning\Project\FCT\Fct.Domain.Contracts\obj\Debug\netstandard2.0\Fct.Domain.Contracts.AssemblyInfoInputs.cache
+C:\Learning\Project\FCT\Fct.Domain.Contracts\obj\Debug\netstandard2.0\Fct.Domain.Contracts.AssemblyInfo.cs
+C:\Learning\Project\FCT\Fct.Domain.Contracts\obj\Debug\netstandard2.0\Fct.Domain.Contracts.csproj.CopyComplete
+C:\Learning\Project\FCT\Fct.Domain.Contracts\obj\Debug\netstandard2.0\Fct.Domain.Contracts.dll
+C:\Learning\Project\FCT\Fct.Domain.Contracts\obj\Debug\netstandard2.0\Fct.Domain.Contracts.pdb

@@ -1,0 +1,17 @@
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Infrastructure.Persistence.deps.json
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Infrastructure.Persistence.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.csprojAssemblyReference.cache
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Infrastructure.Persistence.pdb
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Infrastructure.Contracts.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Infrastructure.Contracts.pdb
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.pdb
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.csproj.CopyComplete
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\obj\Debug\netstandard2.0\Fct.Infrastructure.Persistence.pdb
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Domain.Contracts.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Domain.Models.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Domain.Contracts.pdb
+C:\Learning\Project\FCT\Fct.Infrastructure.Persistence\bin\Debug\netstandard2.0\Fct.Domain.Models.pdb

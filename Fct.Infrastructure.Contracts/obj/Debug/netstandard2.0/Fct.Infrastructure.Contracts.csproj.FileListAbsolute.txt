@@ -1,0 +1,11 @@
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\obj\Debug\netstandard2.0\Fct.Infrastructure.Contracts.csprojAssemblyReference.cache
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\obj\Debug\netstandard2.0\Fct.Infrastructure.Contracts.AssemblyInfoInputs.cache
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\obj\Debug\netstandard2.0\Fct.Infrastructure.Contracts.AssemblyInfo.cs
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\bin\Debug\netstandard2.0\Fct.Infrastructure.Contracts.deps.json
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\bin\Debug\netstandard2.0\Fct.Infrastructure.Contracts.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\bin\Debug\netstandard2.0\Fct.Infrastructure.Contracts.pdb
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\bin\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\bin\Debug\netstandard2.0\Fct.Infrastructure.Persistence.Entities.pdb
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\obj\Debug\netstandard2.0\Fct.Infrastructure.Contracts.csproj.CopyComplete
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\obj\Debug\netstandard2.0\Fct.Infrastructure.Contracts.dll
+C:\Learning\Project\FCT\Fct.Infrastructure.Contracts\obj\Debug\netstandard2.0\Fct.Infrastructure.Contracts.pdb
