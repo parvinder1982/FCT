@@ -1,5 +1,5 @@
 # FCT
-There are few step you needs to follow to make is workable
+There are few step that you need to follow to make it run
 
 Step - 1 ==> First Create a Database or connect with existing if already exists with same schema and tables
 
@@ -42,6 +42,26 @@ CREATE TABLE [dbo].[Purchase] (
 	CONSTRAINT FK_Product FOREIGN KEY (ProductId)    REFERENCES Product(Id)
 );
 
+insert into Customer values('fctuser1','fctuser1@fct.ca','Fct@123')
+insert into Customer values('fctuser2','fctuser2@fct.ca','Fct@123')
+insert into Customer values('fctuser3','fctuser3@fct.ca','Fct@123')
+insert into Customer values('fctuser4','fctuser4@fct.ca','Fct@123')
+
+
+insert into Product values('Pen', 2);
+insert into Product values('Laptop', 900);
+insert into Product values('Goole Home', 100);
+insert into Product values('iPad', 300);
+
+insert into Product values('TV', 1000);
+insert into Product values('Mouse', 20);
+
+insert into Product values('Angular 8 Book', 20);
+insert into Product values('C# book', 20);
+insert into Product values('OOPs Book', 20);
+
+insert into Product values('Printer', 20);
+insert into Product values('Home Phone', 20);
 GO
 Commit 
 
